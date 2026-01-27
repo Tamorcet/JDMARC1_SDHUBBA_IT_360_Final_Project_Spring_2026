@@ -2,7 +2,7 @@
 
 ## Team Members
 - Jacob Marcotte
-- Steven
+- Steven Hubbard
 
 ## Project Idea
 
