@@ -6,6 +6,6 @@
 
 ## Project Idea
 
-[insert details later]
+[insert more details later]
 
 
