@@ -1,4 +1,4 @@
-# JDMARC1_SDHUBBA_IT_350_Final_Project_Spring_2026
+# JDMARC1_SDHUBBA_IT_360_Final_Project_Spring_2026
 
 ## Team Members
 - Jacob Marcotte
