@@ -1,6 +1,6 @@
 # Set to None to let Scapy choose the default interface.
 # You can also set this to something like "eth0" after checking with: ip a
-INTERFACE = None
+INTERFACE = "lo"
 
 # Berkeley Packet Filter expression.
 # Examples: "tcp", "udp", "tcp or udp", "port 80"
